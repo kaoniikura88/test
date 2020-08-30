@@ -1,0 +1,85 @@
+@media (max-width: 1200px)
+    .news_item
+      width: 280px
+      
+    .bk
+      background: url('../img/red.png') -20% 85% no-repeat, url('../img/purple.png') 120% 95% no-repeat
+
+@media (max-width: 991px)
+    .menu
+      &_menu_item_hide
+        display: none
+      &_link
+        display: block
+        transform: translateY(60%)
+        font-size: 14px
+      &_data
+        font-size: 14px
+        color: #2B2B2B 
+    
+    .menu_item_data
+      margin-left: 0%
+      font-size: 16px
+
+    .menu_link_data
+      font-size: 14px 
+    
+    .bk
+      background: none
+
+    .menutwo
+      margin-left: 15%
+      
+@media (max-width: 767px)
+	  .hamburger
+		  display: block
+		  position: absolute
+		  right: 60px
+		  top: 50%
+		  transform: translateY(-50%)
+		  width: 26px
+		  height: 12px
+		  span 
+			  display: block 
+			  height: 2px
+			  width: 100%
+			  background-color: #D51522
+			  margin-bottom: 2px
+			  transition: 0.5s all
+		  &_active 
+			    span 
+				    margin-bottom: -2px 
+				    &:nth-child(1)
+					    transform: translateY(3px) rotate(-45deg)
+				    &:nth-child(2)
+					    display: none
+				    &:nth-child(3)
+					    transform: translateY(3px) rotate(45deg)
+
+
+@media (max-width: 575px)
+    .agency
+      &_header
+        font-size: 20px
+
+    
+    input[type="tel"]
+      width: 200px
+      height: 40px
+
+    input[type="submit"]
+      width: 200px
+      height: 40px
+
+    .news_title
+      font-size: 25px 
+
+    
+    
+  
+    
+
+  
+  
+     
+

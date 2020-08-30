@@ -1,0 +1,15 @@
+[0822/231708.817:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231708.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231708.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231708.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231708.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 11956 not found in process
+[0822/231708.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231708.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 10692 not found in process
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 10236 not found in process
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 9488 not found in process
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 10876 not found in process
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 5256 not found in process
+[0822/231710.505:ERROR:exception_snapshot_win.cc(98)] thread ID 10700 not found in process
+[0824/201524.849:ERROR:settings.cc(320)] Settings magic is not 1129342067
